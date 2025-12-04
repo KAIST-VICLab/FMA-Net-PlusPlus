@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/eaccd9eb-32ff-463f-af85-4c5cf52cace3
 - **Dec 04, 2025:** This repository is created.
 
 ## 🧬 Previous Work
-**FMA-Net++** is an advanced extension of our previous work, <a href="https://kaist-viclab.github.io/fmanet-site/">**FMA-Net**</a> (CVPR 2024).
+**FMA-Net++** is an advanced extension of our previous work, <a href="https://github.com/KAIST-VICLab/FMA-Net">**FMA-Net**</a> (CVPR 2024).
 
 ## 📖 Abstract
 [cite_start]Real-world video restoration is plagued by complex degradations from motion coupled with dynamically varying exposure—a key challenge largely overlooked by prior works[cite: 77]. [cite_start]We present **FMA-Net++**, a framework for joint video super-resolution and deblurring (VSRDB) that explicitly models this coupled effect[cite: 78].

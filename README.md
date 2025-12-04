@@ -35,14 +35,15 @@
     <h4>
         This repository is the official implementation of "FMA-Net++: Motion- and Exposure-Aware Real-World Joint Video Super-Resolution and Deblurring".
     </h4>
-    <br>
+</div>
 
-    https://github.com/user-attachments/assets/eaccd9eb-32ff-463f-af85-4c5cf52cace3
+https://github.com/user-attachments/assets/eaccd9eb-32ff-463f-af85-4c5cf52cace3
 
-    <br>
+<div align="center">
     <p>
         <i>For interactive comparisons, please visit our <a href="https://kaist-viclab.github.io/fmanetpp_site/">Project Page</a>.</i>
     </p>
+</div>
 </div>
 
 

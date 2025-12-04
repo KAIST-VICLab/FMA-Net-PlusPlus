@@ -50,16 +50,16 @@ https://github.com/user-attachments/assets/eaccd9eb-32ff-463f-af85-4c5cf52cace3
 - **Dec 04, 2025:** This repository is created.
 
 ## 🧬 Previous Work
-**FMA-Net++** is an advanced extension of our previous work, <a href="https://github.com/KAIST-VICLab/FMA-Net">**FMA-Net**</a> (CVPR 2024).
+**FMA-Net++** builds upon our previous work, <a href="https://github.com/KAIST-VICLab/FMA-Net">FMA-Net</a> (CVPR 2024), addressing its limitations in handling **dynamic exposure** and **limited temporal receptive fields**.
 
 ## 📖 Abstract
-[cite_start]Real-world video restoration is plagued by complex degradations from motion coupled with dynamically varying exposure—a key challenge largely overlooked by prior works[cite: 77]. [cite_start]We present **FMA-Net++**, a framework for joint video super-resolution and deblurring (VSRDB) that explicitly models this coupled effect[cite: 78].
+Real-world video restoration is plagued by complex degradations from motion coupled with dynamically varying exposure—a key challenge largely overlooked by prior works. We present **FMA-Net++**, a framework for joint video super-resolution and deblurring (VSRDB) that explicitly models this coupled effect.
 
-[cite_start]FMA-Net++ adopts a sequence-level architecture built from **Hierarchical Refinement with Bidirectional Propagation (HRBP)** blocks for parallel, long-range temporal modeling[cite: 79]. [cite_start]It incorporates an **Exposure Time-aware Modulation (ETM)** layer and an **exposure-aware Flow-Guided Dynamic Filtering (FGDF)** module to infer physically grounded degradation kernels[cite: 80]. [cite_start]Extensive experiments on our proposed **REDS-ME** and **REDS-RE** benchmarks demonstrate that FMA-Net++ achieves state-of-the-art performance[cite: 83, 84].
+FMA-Net++ adopts a sequence-level architecture built from **Hierarchical Refinement with Bidirectional Propagation (HRBP)** blocks for parallel, long-range temporal modeling. It incorporates an **Exposure Time-aware Modulation (ETM)** layer and an **exposure-aware Flow-Guided Dynamic Filtering (FGDF)** module to infer physically grounded degradation kernels. Extensive experiments on our proposed **REDS-ME** and **REDS-RE** benchmarks demonstrate that FMA-Net++ achieves state-of-the-art performance.
 
 ## 🖼️ Method Overview
 
-[cite_start]FMA-Net++ utilizes **HRBP** blocks for efficient temporal modeling and **ETM** layers to explicitly handle dynamic exposure changes[cite: 188, 190].
+FMA-Net++ utilizes **HRBP** blocks for efficient temporal modeling and **ETM** layers to explicitly handle dynamic exposure changes.
 
 <div align="center">
     <img src="assets/architecture.png" alt="Architecture" width="95%">

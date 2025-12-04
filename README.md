@@ -15,7 +15,6 @@
 <div>
     <sup>†</sup>Co-corresponding authors
 </div>
-<br>
 
 <div>
     <h4 align="center">

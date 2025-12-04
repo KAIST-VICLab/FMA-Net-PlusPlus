@@ -1,6 +1,11 @@
 <div align="center">
 <h2>FMA-Net++</h2>
 
+<a href="https://kaist-viclab.github.io/fmanet-site/">
+    <img src="https://img.shields.io/badge/Evolution%20of-FMA--Net%20(CVPR%202024)-6A0DAD?style=for-the-badge&logo=github" alt="Previous Work">
+</a>
+<br><br>
+
 <div>&nbsp;&nbsp;
     <a href='https://sites.google.com/view/geunhyukyouk/' target='_blank'>Geunhyuk Youk</a><sup>1</sup>&nbsp;
     <a href='https://sites.google.com/view/ozbro/' target='_blank'>Jihyong Oh</a><sup>† 2</sup>&nbsp;
@@ -15,7 +20,6 @@
 <div>
     <sup>†</sup>Co-corresponding authors</span>
 </div>
-<br>
 
 <div>
     <h4 align="center">
@@ -41,7 +45,7 @@ https://github.com/user-attachments/assets/eaccd9eb-32ff-463f-af85-4c5cf52cace3
 
 <div align="center">
     <p>
-        <i>For interactive comparisons, please visit our <a href="https://kaist-viclab.github.io/fmanetpp_site/">Project Page</a>.</i>
+        For interactive comparisons, please visit our <a href="https://kaist-viclab.github.io/fmanetpp_site/">Project Page</a>.
     </p>
 </div>
 </div>
@@ -49,6 +53,9 @@ https://github.com/user-attachments/assets/eaccd9eb-32ff-463f-af85-4c5cf52cace3
 
 ## 📧 News
 - **Dec 04, 2025:** This repository is created
+
+## 🧬 Previous Work
+**FMA-Net++** is an advanced extension of our previous work, <a href="https://kaist-viclab.github.io/fmanet-site/">FMA-Net</a> (CVPR 2024).
 
 ## 📖 Abstract
 Real-world video restoration is plagued by complex degradations from motion coupled with dynamically varying exposure—a key challenge largely overlooked by prior works. We present **FMA-Net++**, a framework for joint video super-resolution and deblurring (VSRDB) that explicitly models this coupled effect.
@@ -75,7 +82,5 @@ FMA-Net++ utilizes **HRBP** blocks for efficient temporal modeling and **ETM** l
 - [ ] Training scripts
 - [ ] Dataset generation scripts
 
-📬 Contact
-For any questions, please contact rmsgurkjg@kaist.ac.kr via email.
-
-<div align="center"> Previous Work: <a href="https://kaist-viclab.github.io/fmanet-site/">FMA-Net (CVPR 2024)</a> </div>
+## 📬 Contact
+**For any questions, please contact rmsgurkjg@kaist.ac.kr via email.**

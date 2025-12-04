@@ -1,11 +1,6 @@
 <div align="center">
 <h2>FMA-Net++</h2>
 
-<a href="https://kaist-viclab.github.io/fmanet-site/">
-    <img src="https://img.shields.io/badge/Evolution%20of-FMA--Net%20(CVPR%202024)-6A0DAD?style=for-the-badge&logo=github" alt="Previous Work">
-</a>
-<br><br>
-
 <div>&nbsp;&nbsp;
     <a href='https://sites.google.com/view/geunhyukyouk/' target='_blank'>Geunhyuk Youk</a><sup>1</sup>&nbsp;
     <a href='https://sites.google.com/view/ozbro/' target='_blank'>Jihyong Oh</a><sup>† 2</sup>&nbsp;
@@ -18,8 +13,9 @@
     <sup>2</sup>Chung-Ang University, South Korea
 </div>
 <div>
-    <sup>†</sup>Co-corresponding authors</span>
+    <sup>†</sup>Co-corresponding authors
 </div>
+<br>
 
 <div>
     <h4 align="center">
@@ -50,26 +46,25 @@ https://github.com/user-attachments/assets/eaccd9eb-32ff-463f-af85-4c5cf52cace3
 </div>
 </div>
 
-
 ## 📧 News
-- **Dec 04, 2025:** This repository is created
+- **Dec 04, 2025:** This repository is created.
 
 ## 🧬 Previous Work
-**FMA-Net++** is an advanced extension of our previous work, <a href="https://kaist-viclab.github.io/fmanet-site/">FMA-Net</a> (CVPR 2024).
+**FMA-Net++** is an advanced extension of our previous work, <a href="https://kaist-viclab.github.io/fmanet-site/">**FMA-Net**</a> (CVPR 2024).
 
 ## 📖 Abstract
-Real-world video restoration is plagued by complex degradations from motion coupled with dynamically varying exposure—a key challenge largely overlooked by prior works. We present **FMA-Net++**, a framework for joint video super-resolution and deblurring (VSRDB) that explicitly models this coupled effect.
+[cite_start]Real-world video restoration is plagued by complex degradations from motion coupled with dynamically varying exposure—a key challenge largely overlooked by prior works[cite: 77]. [cite_start]We present **FMA-Net++**, a framework for joint video super-resolution and deblurring (VSRDB) that explicitly models this coupled effect[cite: 78].
 
-FMA-Net++ adopts a sequence-level architecture built from **Hierarchical Refinement with Bidirectional Propagation (HRBP)** blocks for parallel, long-range temporal modeling. It incorporates an **Exposure Time-aware Modulation (ETM)** layer and an **exposure-aware Flow-Guided Dynamic Filtering (FGDF)** module to infer physically grounded degradation kernels. Extensive experiments on our proposed **REDS-ME** and **REDS-RE** benchmarks demonstrate that FMA-Net++ achieves state-of-the-art performance.
+[cite_start]FMA-Net++ adopts a sequence-level architecture built from **Hierarchical Refinement with Bidirectional Propagation (HRBP)** blocks for parallel, long-range temporal modeling[cite: 79]. [cite_start]It incorporates an **Exposure Time-aware Modulation (ETM)** layer and an **exposure-aware Flow-Guided Dynamic Filtering (FGDF)** module to infer physically grounded degradation kernels[cite: 80]. [cite_start]Extensive experiments on our proposed **REDS-ME** and **REDS-RE** benchmarks demonstrate that FMA-Net++ achieves state-of-the-art performance[cite: 83, 84].
 
 ## 🖼️ Method Overview
 
-FMA-Net++ utilizes **HRBP** blocks for efficient temporal modeling and **ETM** layers to explicitly handle dynamic exposure changes.
+[cite_start]FMA-Net++ utilizes **HRBP** blocks for efficient temporal modeling and **ETM** layers to explicitly handle dynamic exposure changes[cite: 188, 190].
 
 <div align="center">
     <img src="assets/architecture.png" alt="Architecture" width="95%">
 </div>
-
+<br>
 <div align="center">
     <img src="assets/hrbp.png" alt="HRBP" width="45%">
 </div>

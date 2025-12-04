@@ -36,14 +36,15 @@
         This repository is the official implementation of "FMA-Net++: Motion- and Exposure-Aware Real-World Joint Video Super-Resolution and Deblurring".
     </h4>
     <br>
-    
-    <video src="https://github.com/user-attachments/assets/eaccd9eb-32ff-463f-af85-4c5cf52cace3" controls="controls" width="100%" style="border-radius: 10px;"></video>
-    
+
+    https://github.com/user-attachments/assets/eaccd9eb-32ff-463f-af85-4c5cf52cace3
+
+    <br>
     <p>
         <i>For interactive comparisons, please visit our <a href="https://kaist-viclab.github.io/fmanetpp_site/">Project Page</a>.</i>
     </p>
 </div>
-</div>
+
 
 ## 📧 News
 - **Dec 04, 2025:** This repository is created
@@ -62,7 +63,7 @@ FMA-Net++ utilizes **HRBP** blocks for efficient temporal modeling and **ETM** l
 </div>
 
 <div align="center">
-    <img src="assets/hrbp.png" alt="HRBP" width="95%">
+    <img src="assets/hrbp.png" alt="HRBP" width="45%">
 </div>
 
 ## 🚀 Code Release Plan
@@ -74,6 +75,6 @@ FMA-Net++ utilizes **HRBP** blocks for efficient temporal modeling and **ETM** l
 - [ ] Dataset generation scripts
 
 📬 Contact
-For any questions, please contact Geunhyuk Youk via email.
+For any questions, please contact rmsgurkjg@kaist.ac.kr via email.
 
 <div align="center"> Previous Work: <a href="https://kaist-viclab.github.io/fmanet-site/">FMA-Net (CVPR 2024)</a> </div>

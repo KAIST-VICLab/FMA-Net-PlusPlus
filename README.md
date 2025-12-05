@@ -40,7 +40,9 @@ https://github.com/user-attachments/assets/eaccd9eb-32ff-463f-af85-4c5cf52cace3
 
 <br>
 
-👆 **Experience User-Interactive Comparisons:** > Please visit our **[Project Page](https://kaist-viclab.github.io/fmanetpp_site/)** to explore more results.
+> 👆 **Experience User-Interactive Comparisons:**
+>
+> Please visit our **[Project Page](https://kaist-viclab.github.io/fmanetpp_site/)** to explore more results.
 
 </div>
 

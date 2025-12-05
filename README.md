@@ -48,8 +48,10 @@ https://github.com/user-attachments/assets/eaccd9eb-32ff-463f-af85-4c5cf52cace3
 ## 📧 News
 - **Dec 04, 2025:** This repository is created.
 
+<!--
 ## 🧬 Previous Work
 **FMA-Net++** builds upon our previous work, <a href="https://github.com/KAIST-VICLab/FMA-Net">FMA-Net</a> (CVPR 2024), addressing its limitations in handling **dynamic exposure** and **limited temporal receptive fields**.
+-->
 
 ## 📖 Abstract
 Real-world video restoration is plagued by complex degradations from motion coupled with dynamically varying exposure—a key challenge largely overlooked by prior works. We present **FMA-Net++**, a framework for joint video super-resolution and deblurring (VSRDB) that explicitly models this coupled effect.

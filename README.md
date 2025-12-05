@@ -15,6 +15,7 @@
 <div>
     <sup>†</sup>Co-corresponding authors
 </div>
+</div>
 
 <div>
     <h4 align="center">
@@ -39,15 +40,10 @@
 https://github.com/user-attachments/assets/eaccd9eb-32ff-463f-af85-4c5cf52cace3
 
 <div align="center">
+    <br>
     <p>
-        👆 <b>Experience User-Interactive Comparisons:</b>, please visit our <a href="https://kaist-viclab.github.io/fmanetpp_site/"><b>Project Page</b></a> to explore more results.
+        👆 <b>Experience User-Interactive Comparisons:</b> Please visit our <a href="https://kaist-viclab.github.io/fmanetpp_site/"><b>Project Page</b></a> to explore more results.
     </p>
-</div>
-
-<br>
-
-> 👆 **Experience User-Interactive Comparisons:** Please visit our **[Project Page](https://kaist-viclab.github.io/fmanetpp_site/)** to explore more results.
-
 </div>
 
 ## 📧 News

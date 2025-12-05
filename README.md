@@ -21,7 +21,7 @@
         <a href="https://kaist-viclab.github.io/fmanetpp_site/" target='_blank'>
         <img src="https://img.shields.io/badge/🐳-Project%20Page-blue">
         </a>
-        <a href="#" target='_blank'>
+        <a href="https://arxiv.org/abs/2512.04390" target='_blank'>
         <img src="https://img.shields.io/badge/arXiv-Paper-b31b1b.svg">
         </a>
         <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/KAIST-VICLab/FMA-Net-PlusPlus">
@@ -38,11 +38,9 @@
 
 https://github.com/user-attachments/assets/eaccd9eb-32ff-463f-af85-4c5cf52cace3
 
-<div align="center">
-    <p>
-        For interactive comparisons, please visit our <a href="https://kaist-viclab.github.io/fmanetpp_site/">Project Page</a>.
-    </p>
-</div>
+<br>
+> 👆 **Experience User-Interactive Comparisons:** > Please visit our **[Project Page](https://kaist-viclab.github.io/fmanetpp_site/)** to explore more results.
+
 </div>
 
 ## 📧 News
